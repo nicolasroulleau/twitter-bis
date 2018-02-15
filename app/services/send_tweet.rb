@@ -19,5 +19,6 @@ class SendTweet
 
 	def send_tweet(tweet)
 		@client.update(tweet)
+		p tweet
 	end
 end
