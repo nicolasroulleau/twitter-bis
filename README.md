@@ -1,24 +1,9 @@
-# README
+# TWITTER-BIS APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bienvenue sur ma twitter-bis app.
 
-Things you may want to cover:
+L'app est déployée sur Heroku à l'adresse suivante: https://floating-wildwood-65306.herokuapp.com/
 
-* Ruby version
+Vous pourrez y twitter des messages à travers le compte de Bobby Doops @Nikolehouf.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Allez y molo quand même :smile:
