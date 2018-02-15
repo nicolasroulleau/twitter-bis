@@ -6,4 +6,4 @@ L'app est déployée sur Heroku à l'adresse suivante: https://floating-wildwood
 
 Vous pourrez y twitter des messages à travers le compte de Bobby Doops @Nikolehouf.
 
-Allez y molo quand même :smile:
+Allez y molo quand même :wink:
